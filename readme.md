@@ -4,4 +4,4 @@ A collection of Proof-Of-Concepts, technical presentations, and code segments th
 
 ## Topics
 
-- [Docker Fundamentals](docker%20fundamentals#readme.md) - Introduction into Docker, Docker Desktop, and the development workflow around building and deploying applicaitons using Docker
+- [Docker Fundamentals](Docker%20Fundamentals#readme) - Introduction into Docker, Docker Desktop, and the development workflow around building and deploying applicaitons using Docker
