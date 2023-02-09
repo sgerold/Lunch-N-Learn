@@ -4,6 +4,6 @@ Introduction into Docker, Docker Desktop, and the development workflow around bu
 
 ## Topics
 
-- slideshow - Powerpoint presentation for Lunch-n-Learn presentation
-- demo - Source code for hands-on demo
+- [slideshow](slideshow) - Powerpoint presentation for Lunch-n-Learn presentation
+- [demo](demo) - Source code for hands-on demo
 
